@@ -52,15 +52,16 @@ h2 {
 }
 
 .features {
-  width: 510px;
-  margin: 0 auto 30px;
-  padding: 0 20px;
+  width: 660px;
+  margin: 0 auto 40px;
+  padding: 0 180px;
+  text-align: center;
 }
 
 .features p {
   display: inline-block;
   vertical-align: top;
-  width: 30%;
+  width: 20%;
   margin: 0 5px;
   background-repeat: no-repeat;
   background-position: center top;
@@ -80,6 +81,11 @@ h2 {
 .feature-accessories {
   padding-top: 65px;
   background-image: url("img/accessories.svg");
+}
+
+.feature-rastenie {
+  padding-top: 65px;
+  background-image: url("img/invjdfvb.svg");
 }
 
 .advantages {
@@ -125,5 +131,8 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
+
+
+
 
 
