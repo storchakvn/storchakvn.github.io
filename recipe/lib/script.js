@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Рецепт</title>
+</head>
+<body>
+<main>
+<h1>Рецепт моти с клубникой</h1>
+
