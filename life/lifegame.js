@@ -15,7 +15,10 @@ canvas.onclick = function(event){
 	console.log(y);
 	x = Math.floor(x/10);
 	y = Math.floor(y/10);
-	mas[y][x]=1;
+	if(mas[y][x]==1){mas[y][x]=0}
+	else
+	{mas[y][x]=1}
+
 	console.log(mas);
 	drawField();
 }
